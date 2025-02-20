@@ -12,7 +12,6 @@ export const skillsData = [
   'FastAPI',
   'Django',
   'Python',
-  'Firebase',
   'MaterialUI'
 ]
 

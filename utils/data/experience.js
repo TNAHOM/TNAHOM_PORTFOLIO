@@ -19,7 +19,7 @@ export const experiences = [
     id: 3,
     title: "Freelance Developer",
     company: "Self Employed",
-    duration: "(Jan 2023 - Present)",
+    duration: "(March 2024 - Present)",
     description: "Working on various freelance projects, focusing on full-stack web development using modern technologies. Building custom solutions and maintaining strong client relationships.",
   }
 ]
