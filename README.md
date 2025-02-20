@@ -2,7 +2,7 @@
 
 # Live Portfolio :link:
 
-Check out the live portfolio [here](https://tnahom-portfolio-n8pl.vercel.app/).
+Check out the live portfolio [here](https://nahomtamirat.vercel.app/).
 
 ---
 
@@ -16,7 +16,7 @@ Check out the live portfolio [here](https://tnahom-portfolio-n8pl.vercel.app/).
 
 # Overview
 
-This project is a full-stack developer portfolio template built to showcase your skills, projects, and experiences. It includes sections for a hero introduction, about me, experience, skills, projects, education, and contact information.
+This project is a full-stack developer portfolio to showcase my skills, projects, and experiences. It includes sections for a hero introduction, about me, experience, skills, projects, education, and contact information.
 
 ---
 
@@ -57,16 +57,12 @@ From the root directory, install the necessary packages:
 
 ```bash
 npm install
-# or
-yarn install
 ```
 
 Then, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
