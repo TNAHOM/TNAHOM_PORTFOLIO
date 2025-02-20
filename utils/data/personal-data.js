@@ -7,11 +7,7 @@ export const personalData = {
   phone: 'Available upon request',
   address: 'Addis Ababa, Ethiopia',
   github: 'https://github.com/TNAHOM',
-  facebook: '',
   linkedIn: 'https://www.linkedin.com/in/tnahom/',
-  twitter: '',
-  stackOverflow: '',
   leetcode: "https://leetcode.com/u/tnahom/",
-  devUsername: "",
   resume: "https://drive.google.com/file/d/15Mo4XQv6MO4DY-wSzKfFdy4xwMuR6nD0/view?usp=sharing"
 }
